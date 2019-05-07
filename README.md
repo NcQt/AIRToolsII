@@ -5,14 +5,14 @@
   > is included  in all copies  of any software which is or includes a copy 
   > or modification  of this software  and in all copies  of the supporting 
   > documentation for such software.                                        
-  ***************************************************************************
+  
   > THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED 
   > WARRANTY. IN NO EVENT, NEITHER  THE AUTHORS, NOR THE PUBLISHER, NOR ANY 
   > MEMBER  OF THE EDITORIAL BOARD OF  THE JOURNAL  "NUMERICAL ALGORITHMS", 
   > NOR ITS EDITOR-IN-CHIEF, BE  LIABLE FOR ANY ERROR  IN THE SOFTWARE, ANY 
   > MISUSE  OF IT  OR ANY DAMAGE ARISING OUT OF ITS USE. THE ENTIRE RISK OF 
   > USING THE SOFTWARE LIES WITH THE PARTY DOING SO.                        
-  ***************************************************************************
+  
   > ANY USE  OF THE SOFTWARE  CONSTITUTES  ACCEPTANCE  OF THE TERMS  OF THE 
   > ABOVE STATEMENT AND OF THE ACCOMPANYING FILE LICENSE.txt.               
   ***************************************************************************
@@ -43,7 +43,7 @@
        MATLAB 9.0 (R2016a)
 
 
-*********************
+
 ### SOFTWARE
 *********************
 
@@ -59,7 +59,7 @@ The software has been developed and tested using MATLAB version 9.0.
 No other MathWorks products or toolboxes are required.
 
 
-*********************
+
 ### HOW TO INSTALL AND CHECK THE INSTALLATION
 *********************
 
@@ -84,7 +84,7 @@ Please follow these steps:
   from the demos subdirectory.
 
 
-*********************
+
 ### SOFTWARE UPDATES AND BUG FIXES
 *********************
 
@@ -97,7 +97,7 @@ in the GitHub code repository
 Please check this location for software updates and bug fixes.
 
 
-*********************
+
 ### PACKAGE
 *********************
 
@@ -124,7 +124,7 @@ See the file Contents.m for a list of the files contained in the
 toolbox.
 
 
-*********************
+
 ### DEMONSTRATION SCRIPTS
 *********************
 
@@ -139,7 +139,7 @@ Tomography Toolbox, which must be installed separately, see
 for instructions.
 
 
-*********************
+
 ### DOCUMENTATION
 *********************
 
