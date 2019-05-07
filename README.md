@@ -1,20 +1,20 @@
   ***************************************************************************
-  * All the software  contained in this library  is protected by copyright. *
-  * Permission  to use, copy, modify, and  distribute this software for any *
-  * purpose without fee is hereby granted, provided that this entire notice *
-  * is included  in all copies  of any software which is or includes a copy *
-  * or modification  of this software  and in all copies  of the supporting *
-  * documentation for such software.                                        *
+  > All the software  contained in this library  is protected by copyright. 
+  > Permission  to use, copy, modify, and  distribute this software for any 
+  > purpose without fee is hereby granted, provided that this entire notice 
+  > is included  in all copies  of any software which is or includes a copy 
+  > or modification  of this software  and in all copies  of the supporting 
+  > documentation for such software.                                        
   ***************************************************************************
-  * THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED *
-  * WARRANTY. IN NO EVENT, NEITHER  THE AUTHORS, NOR THE PUBLISHER, NOR ANY *
-  * MEMBER  OF THE EDITORIAL BOARD OF  THE JOURNAL  "NUMERICAL ALGORITHMS", *
-  * NOR ITS EDITOR-IN-CHIEF, BE  LIABLE FOR ANY ERROR  IN THE SOFTWARE, ANY *
-  * MISUSE  OF IT  OR ANY DAMAGE ARISING OUT OF ITS USE. THE ENTIRE RISK OF *
-  * USING THE SOFTWARE LIES WITH THE PARTY DOING SO.                        *
+  > THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED 
+  > WARRANTY. IN NO EVENT, NEITHER  THE AUTHORS, NOR THE PUBLISHER, NOR ANY 
+  > MEMBER  OF THE EDITORIAL BOARD OF  THE JOURNAL  "NUMERICAL ALGORITHMS", 
+  > NOR ITS EDITOR-IN-CHIEF, BE  LIABLE FOR ANY ERROR  IN THE SOFTWARE, ANY 
+  > MISUSE  OF IT  OR ANY DAMAGE ARISING OUT OF ITS USE. THE ENTIRE RISK OF 
+  > USING THE SOFTWARE LIES WITH THE PARTY DOING SO.                        
   ***************************************************************************
-  * ANY USE  OF THE SOFTWARE  CONSTITUTES  ACCEPTANCE  OF THE TERMS  OF THE *
-  * ABOVE STATEMENT AND OF THE ACCOMPANYING FILE LICENSE.txt.               *
+  > ANY USE  OF THE SOFTWARE  CONSTITUTES  ACCEPTANCE  OF THE TERMS  OF THE 
+  > ABOVE STATEMENT AND OF THE ACCOMPANYING FILE LICENSE.txt.               
   ***************************************************************************
 
    AUTHORS:
@@ -43,9 +43,9 @@
        MATLAB 9.0 (R2016a)
 
 
-=====================================================================
-SOFTWARE
-=====================================================================
+*********************
+### SOFTWARE
+*********************
 
 The AIR Tools II toolbox for MATLAB provides efficient, robust and 
 flexible implementations of algebraic iterative reconstruction (AIR) 
@@ -59,14 +59,13 @@ The software has been developed and tested using MATLAB version 9.0.
 No other MathWorks products or toolboxes are required.
 
 
-=====================================================================
-HOW TO INSTALL AND CHECK THE INSTALLATION
-=====================================================================
+*********************
+### HOW TO INSTALL AND CHECK THE INSTALLATION
+*********************
 
 Please follow these steps:
 
-- Extract the archive in a directory of your choice. This creates a  
-  directory called AIRToolsII with all files of the toolbox.
+- Extract the archive in a directory of your choice. This creates a directory called AIRToolsII with all files of the toolbox.
 
 - Start MATLAB.
 
@@ -85,9 +84,9 @@ Please follow these steps:
   from the demos subdirectory.
 
 
-=====================================================================
-SOFTWARE UPDATES AND BUG FIXES
-=====================================================================
+*********************
+### SOFTWARE UPDATES AND BUG FIXES
+*********************
 
 In addition to the refereed version of the software published along 
 with the journal paper, the AIR Tools II software will be maintained 
@@ -98,9 +97,9 @@ in the GitHub code repository
 Please check this location for software updates and bug fixes.
 
 
-=====================================================================
-PACKAGE
-=====================================================================
+*********************
+### PACKAGE
+*********************
 
 The AIRToolsII package is organized into a main directory with seven 
 subdirectories:
@@ -125,9 +124,9 @@ See the file Contents.m for a list of the files contained in the
 toolbox.
 
 
-=====================================================================
-DEMONSTRATION SCRIPTS
-=====================================================================
+*********************
+### DEMONSTRATION SCRIPTS
+*********************
 
 The directory AIRToolsII/demos contains 12 demo scripts, which can be
 executed for illustrating the basic use and functionality of the 
@@ -140,9 +139,9 @@ Tomography Toolbox, which must be installed separately, see
 for instructions.
 
 
-=====================================================================
-DOCUMENTATION
-=====================================================================
+*********************
+### DOCUMENTATION
+*********************
 
 More information can be found:
 
